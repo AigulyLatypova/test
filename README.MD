@@ -1,4 +1,4 @@
-# Hello, world!
+# Hello, world! Привет, мир!
 
 I study in Netology
 
